@@ -754,6 +754,10 @@ nav a {
     font-weight: bold;
 }
 
+    main {
+  margin-top: 8%;
+}
+
 section {
   height: 91vh;
   overflow: hidden;
