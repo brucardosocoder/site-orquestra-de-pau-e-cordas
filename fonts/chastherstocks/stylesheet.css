@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Chastherstocks';
+    src: url('Chastherstocks-Regular.eot');
+    src: local('Chastherstocks Regular'), local('Chastherstocks-Regular'),
+        url('Chastherstocks-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Chastherstocks-Regular.woff2') format('woff2'),
+        url('Chastherstocks-Regular.woff') format('woff'),
+        url('Chastherstocks-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
